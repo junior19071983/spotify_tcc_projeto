@@ -9,7 +9,7 @@ O objetivo é analisar músicas do Spotify e identificar padrões relacionados �
 - Fonte: Spotify Tracks Dataset
 - Contém informações como: nome da faixa, artista, popularidade, duração, energia, dança, acústica, entre outros atributos.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas 
 - Python
 - Pandas
 - Matplotlib / Seaborn
